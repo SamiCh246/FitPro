@@ -1,6 +1,6 @@
 # FitPro
 
-FitPro is your go-to React Fitness App, packed with features to supercharge your workouts and enhance your React development skills.
+FitPro is your go-to React Fitness App, packed with features to supercharge your workouts.
 
 ## Features
 
