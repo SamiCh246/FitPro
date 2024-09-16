@@ -2,7 +2,7 @@
 
 FitPro is your go-to React Fitness App, packed with features to supercharge your workouts.
 
-## Features
+## Features:
 
 - **Exercise Customization**: Choose exercise categories and target specific muscle groups.
 - **Extensive Exercise Library**: Access over a thousand exercises with practical examples.
